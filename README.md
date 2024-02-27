@@ -5,10 +5,11 @@
 🚀 Welcome to my corner of the coding universe! I'm an ambitious Data Scientist with a passion for unlocking the potential of machine learning and deep learning. Aspiring to become a Machine Learning Engineer, I thrive on turning raw data into meaningful insights. My journey involves constant exploration, learning, and problem-solving in the captivating realms of artificial intelligence. Join me as I embark on this exciting adventure, contributing to open source and pushing the boundaries of what's possible in the world of data science. Let's connect and innovate together! 🌟
 
 <p align="left">
-       <a href="https://github.com/amell88?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amell88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/amell88?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/amell88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+       <a href="https://github.com/Amell88?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amell88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Amell88?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Amell88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
    </p>
 
 ---
