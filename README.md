@@ -1,6 +1,7 @@
- <!-- Title with colored background -->
-<div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
+<!-- Introduction with styling -->
+<div style="background-color: #3498db; padding: 20px; border-radius: 10px;">
   <h1 style="color: #ffffff;">Hi, I'm Ismael Amell 👋</h1>
+  <p style="color: #ffffff;">Welcome to my corner of the coding universe! I'm an aspiring Machine Learning Engineer with a passion for unraveling the mysteries of AI. By day, I crunch data as a Data Scientist, and by night, I dive deep into the world of Machine Learning and Deep Learning. Curiosity fuels my journey, and I'm on a quest to turn innovative ideas into reality. Let's build the future together! 🚀</p>
 </div>
 
 <!-- Section with border and padding -->
