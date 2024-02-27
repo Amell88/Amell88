@@ -23,7 +23,7 @@ Join me in this exciting adventure as I contribute to open-source projects, push
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🧰 Languages and Tools:</h3>
 <p align="left">
   <!-- Add your language and tool icons here with appropriate links -->
 </p>
