@@ -108,13 +108,21 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
   <p>Constant learner and enthusiastic problem solver. Currently exploring the realms of AI.</p>
 </div>
 
+### 📊 Stats
+<!-- GitHub Stats -->
+![Ismael Amell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
 
-![amell88's Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
+*📊 Exploring the code universe and contributing to open-source projects.*
 
-![amell88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=vue&hide_border=false)
+<!-- GitHub Streak -->
+![Ismael Amell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=vue&hide_border=false)
 
-![amell88's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=vue&show_icons=true&hide_border=false&layout=compact)
+*🔥 Keeping the coding streak alive, one commit at a time.*
 
+<!-- Top Languages -->
+![Ismael Amell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=vue&show_icons=true&hide_border=false&layout=compact)
+
+*🚀 Mastering languages like Python,R, JavaScript, and more for diverse projects.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
