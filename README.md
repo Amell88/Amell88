@@ -79,6 +79,20 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
 <div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
   <h2 style="color: #e74c3c;">🔭 Currently Exploring</h2>
   <p>Machine Learning | Deep Learning | Data Science</p>
+  
+  <p>Delving into advanced neural networks and model optimization techniques.</p>
+  <p>Exploring applications of AI in natural language processing and computer vision.</p>
+  <p>Experimenting with cutting-edge tools for data analysis and feature engineering.</p>
+
+  <h3 style="color: #e74c3c;">🌐 Technologies of Interest</h3>
+  <p>Building scalable solutions with cloud platforms, especially AWS and Azure.</p>
+  <p>Implementing containerization using Docker for seamless deployment.</p>
+  <p>Harnessing the power of big data technologies like Apache Spark for analytics.</p>
+
+  <h3 style="color: #e74c3c;">📚 Continuous Learning</h3>
+  <p>Staying updated on the latest research papers and trends in the ML/DL community.</p>
+  <p>Contributing to open-source projects and collaborating with fellow enthusiasts.</p>
+  <p>Attending workshops and conferences to deepen knowledge and skills.</p>
 </div>
 
 
