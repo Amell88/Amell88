@@ -1,9 +1,19 @@
- Hi there, I'm Ismael Amell! 👋
+ <!-- Title with colored background -->
+<div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
+  <h1 style="color: #ffffff;">Hi, I'm Ismael Amell 👋</h1>
+</div>
 
-🚀 Aspiring Machine Learning Engineer | 📊 Data Scientist | 💡 Passionate about ML & DL
+<!-- Section with border and padding -->
+<div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
+  <h2 style="color: #e74c3c;">🚀 Aspiring Machine Learning Engineer</h2>
+  <p>Passionate about Machine Learning, Deep Learning, and Data Science.</p>
+</div>
 
-## About Me
-I'm Ismael Amell, a data scientist with a keen interest in machine learning and deep learning. My goal is to transition into a role as a Machine Learning Engineer, applying cutting-edge technologies to solve real-world problems.
+<!-- Another section with different style -->
+<div style="background-color: #2ecc71; color: #ffffff; padding: 10px; border-radius: 5px; margin-top: 10px;">
+  <h2>About Me</h2>
+  <p>Constant learner and enthusiastic problem solver. Currently exploring the realms of AI.</p>
+</div>
 
 
 ![amell88's Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
