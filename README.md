@@ -64,8 +64,6 @@ Explore my coding universe through these stats:
 
 ### 🔥 GitHub Streak
 
-Witness the flames of dedication:
-
 ![Ismael Amell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=vue&hide_border=false)
 
 🚀 **Committing to Excellence:** Keeping the coding streak alive, one commit at a time.
@@ -80,7 +78,7 @@ Mastering the language landscape for diverse projects:
 
 🔧 **Polyglot Explorer:** Proficient in languages like Python, R, JavaScript, and more for a spectrum of projects.
 
-Explore the data, witness the streak, and delve into the languages shaping my coding journey! 🚀📊🔥
+
 ---
 
 <details>
