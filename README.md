@@ -2,7 +2,7 @@
   <h1 style="color: #ffffff;"> 🧠 ISMAEL AMELL🤖</h1>
 </div>
 
-**<span style="color: #ff5733;">AlgorithmArtisan: (Sculpting ML Masterpieces)</span>**
+**`<span style="color: #ff5733;">AlgorithmArtisan: (Sculpting ML Masterpieces)</span>`**
 
 
 
