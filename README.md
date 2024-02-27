@@ -102,12 +102,6 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
   <p>Passionate about Machine Learning, Deep Learning, and Data Science.</p>
 </div>
 
-<!-- Another section with different style -->
-<div style="background-color: #2ecc71; color: #ffffff; padding: 10px; border-radius: 5px; margin-top: 10px;">
-  <h2>About Me</h2>
-  <p>Constant learner and enthusiastic problem solver. Currently exploring the realms of AI.</p>
-</div>
-
 ### 📊 Stats
 <!-- GitHub Stats -->
 ![Ismael Amell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
@@ -133,3 +127,16 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
+
+<details>
+ <summary><h3>👨‍💻 Amell's Coding Journey</h3></summary>
+
+Embarking on my coding journey, my enthusiasm for technology was sparked by the desire to solve intricate financial problems. Coming from a background in finance, particularly in investment fields, I discovered the powerful intersection of technology and finance. This realization fueled my curiosity, prompting me to enroll in Moringa School's Data Science Program Bootcamp from early April 2023 to February 2024.
+
+During my time at Moringa School, I delved into numerous projects—approximately 30 in total. Remarkably, I consistently excelled and even secured the top position in my class on multiple occasions. As the curriculum progressed into deep learning, I found myself captivated by the intricacies of deep learning frameworks. This newfound interest spurred me to explore various deep learning projects, including Natural Language Processing (NLP), Time Series analysis using Long Short-Term Memory (LSTM), and Convolutional Neural Networks (CNN).
+
+Currently, I'm actively working on projects involving deep CNN, chatbots, and developing deep learning models tailored to provide solutions within the financial domain. The convergence of finance and deep learning has become a focal point of my journey, where I aim to contribute innovative solutions to challenges in my field.
+
+As I navigate the complexities of this evolving landscape, there is a constant commitment to improvement. My journey as a Machine Learning Engineer, specializing in investment data and machine learning, is an exciting path that holds limitless possibilities.
+
+</details>
