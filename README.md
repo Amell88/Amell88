@@ -1,8 +1,14 @@
-<!-- Introduction with styling -->
-<div style="background-color: #3498db; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #ffffff;">Hi, I'm Ismael Amell 👋</h1>
-  <p style="color: #ffffff;">Welcome to my corner of the coding universe! I'm an aspiring Machine Learning Engineer with a passion for unraveling the mysteries of AI. By day, I crunch data as a Data Scientist, and by night, I dive deep into the world of Machine Learning and Deep Learning. Curiosity fuels my journey, and I'm on a quest to turn innovative ideas into reality. Let's build the future together! 🚀</p>
+<div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
+  <h1 style="color: #ffffff;">Hi there! 👋 I'm Ismael Amell</h1>
 </div>
+
+🚀 Welcome to my corner of the coding universe! I'm an ambitious Data Scientist with a passion for unlocking the potential of machine learning and deep learning. Aspiring to become a Machine Learning Engineer, I thrive on turning raw data into meaningful insights. My journey involves constant exploration, learning, and problem-solving in the captivating realms of artificial intelligence. Join me as I embark on this exciting adventure, contributing to open source and pushing the boundaries of what's possible in the world of data science. Let's connect and innovate together! 🌟
+
+<div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
+  <h2 style="color: #e74c3c;">🔭 Currently Exploring</h2>
+  <p>Machine Learning | Deep Learning | Data Science</p>
+</div>
+
 
 <!-- Section with border and padding -->
 <div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
