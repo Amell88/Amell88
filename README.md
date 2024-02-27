@@ -1,12 +1,12 @@
 <div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
-  <h1 style="color: #ffffff;"> 🧠 ISMAEL AMELL🤖</h1>
+  <h1 style="color: #ffffff;"> 🧠 ISMAEL AMELL 🤖</h1>
 </div>
 
 **<span style="color: #ff5733;">`AlgorithmArtisan: (Sculpting ML Masterpieces)`</span>**
 
-
-
 Welcome to my corner of the coding universe! I'm an ambitious Data Scientist with a passion for unlocking the potential of machine learning and deep learning. Aspiring to become a Machine Learning Engineer, I thrive on turning raw data into meaningful insights. My journey involves constant exploration, learning, and problem-solving in the captivating realms of artificial intelligence. Join me as I embark on this exciting adventure, contributing to open source and pushing the boundaries of what's possible in the world of data science. Let's connect and innovate together! 🌟
+
+---
 
 <p align="left">
   <a href="https://github.com/Amell88?tab=followers">
@@ -20,61 +20,14 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
   </a>
 </p>
 
-
 ---
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+  <!-- Add your language and tool icons here with appropriate links -->
 </p>
 
+---
 
 <div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
   <h2 style="color: #e74c3c;">🔭 Currently Exploring</h2>
@@ -95,6 +48,7 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
   <p>Attending workshops and conferences to deepen knowledge and skills.</p>
 </div>
 
+---
 
 <!-- Section with border and padding -->
 <div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
@@ -116,17 +70,9 @@ Welcome to my corner of the coding universe! I'm an ambitious Data Scientist wit
 <!-- Top Languages -->
 ![Ismael Amell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
-*🚀 Mastering languages like Python,R, JavaScript, and more for diverse projects.*
+*🚀 Mastering languages like Python, R, JavaScript, and more for diverse projects.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-yegon-15a40017a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-yegon-15a40017a" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ismaelamell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ismaelamell" height="30" width="40" /></a>
-<a href="https://instagram.com/its.ismaelamell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.ismaelamell" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@ismaelkirui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ismaelkirui" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
-</p>
-
+---
 
 <details>
  <summary><h3>👨‍💻 Amell's Coding Journey</h3></summary>
@@ -140,3 +86,19 @@ Currently, I'm actively working on projects involving deep CNN, chatbots, and de
 As I navigate the complexities of this evolving landscape, there is a constant commitment to improvement. My journey as a Machine Learning Engineer, specializing in investment data and machine learning, is an exciting path that holds limitless possibilities.
 
 </details>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-yegon-15a40017a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-yegon-15a40017a" height="30" width="40" /></a>
+  
+<a href="https://kaggle.com/https://www.kaggle.com/ismaelamell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ismaelamell" height="30" width="40" /></a>
+
+<a href="https://instagram.com/its.ismaelamell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.ismaelamell" height="30" width="40" /></a>
+
+<a href="https://medium.com/https://medium.com/@ismaelkirui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ismaelkirui" height="30" width="40" /></a>
+
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+
+</p> 
