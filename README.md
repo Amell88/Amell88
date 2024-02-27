@@ -51,28 +51,36 @@ Join me in this exciting adventure as I contribute to open-source projects, push
 
 ---
 
-<!-- Section with border and padding -->
-<div style="border: 1px solid #e74c3c; padding: 10px; border-radius: 5px; margin-top: 10px;">
-  <h2 style="color: #e74c3c;">🚀 Aspiring Machine Learning Engineer</h2>
-  <p>Passionate about Machine Learning, Deep Learning, and Data Science.</p>
-</div>
 
-### 📊 Stats
-<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+Explore my coding universe through these stats:
+
 ![Ismael Amell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
 
-*📊 Exploring the code universe and contributing to open-source projects.*
+🌐 **Journey in Code:** Embarking on a quest in the vast code universe, contributing to open-source projects.
 
-<!-- GitHub Streak -->
+---
+
+### 🔥 GitHub Streak
+
+Witness the flames of dedication:
+
 ![Ismael Amell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=vue&hide_border=false)
 
-*🔥 Keeping the coding streak alive, one commit at a time.*
+🚀 **Committing to Excellence:** Keeping the coding streak alive, one commit at a time.
 
-<!-- Top Languages -->
+---
+
+### 🚀 Top Languages
+
+Mastering the language landscape for diverse projects:
+
 ![Ismael Amell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
-*🚀 Mastering languages like Python, R, JavaScript, and more for diverse projects.*
+🔧 **Polyglot Explorer:** Proficient in languages like Python, R, JavaScript, and more for a spectrum of projects.
 
+Explore the data, witness the streak, and delve into the languages shaping my coding journey! 🚀📊🔥
 ---
 
 <details>
