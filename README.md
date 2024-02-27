@@ -1,6 +1,4 @@
-<div style="background-color: #3498db; padding: 10px; border-radius: 5px;">
-  <h1 style="color: #ffffff;"> 🧠 ISMAEL AMELL 🤖</h1>
-</div>
+# <img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" /> ISMAEL AMELL
 
 **<span style="color: #ff5733;">`AlgorithmArtisan: (Sculpting ML Masterpieces)`</span>**
 
