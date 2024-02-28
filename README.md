@@ -9,7 +9,6 @@ Join me in this exciting adventure as I contribute to open-source projects, push
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amell88" alt="amell88" /></a> </p>
-
 ---
 
 ![](https://github-profile-trophy.vercel.app/?username=amell88&theme=radical&no-frame=false&no-bg=true&margin-w=4)
