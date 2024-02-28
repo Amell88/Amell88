@@ -12,17 +12,7 @@ Join me in this exciting adventure as I contribute to open-source projects, push
 
 ---
 
-<p align="left">
-  <a href="https://github.com/Amell88?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amell88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Amell88?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Amell88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/Amell88?tab=repositories">
-    <img alt="repositories" title="My Repositories" src="https://img.shields.io/badge/Repositories-View%20My%20Repos-brightgreen?style=for-the-badge&logoColor=white"/>
-  </a>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=amell88&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
