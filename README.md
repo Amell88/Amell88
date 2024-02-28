@@ -57,7 +57,7 @@ Join me in this exciting adventure as I contribute to open-source projects, push
 
 Explore my coding universe through these stats:
 
-![Ismael Amell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amell88&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=amell88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 🌐 **Journey in Code:** Embarking on a quest in the vast code universe, contributing to open-source projects.
 
@@ -65,7 +65,7 @@ Explore my coding universe through these stats:
 
 ### 🔥 GitHub Streak
 
-![Ismael Amell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=vue&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amell88&theme=dark&hide_border=false)<br/>
 
 🚀 **Committing to Excellence:** Keeping the coding streak alive, one commit at a time.
 
@@ -75,7 +75,7 @@ Explore my coding universe through these stats:
 
 Mastering the language landscape for diverse projects:
 
-![Ismael Amell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amell88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 🔧 **Polyglot Explorer:** Proficient in languages like Python, R, JavaScript, and more for a spectrum of projects.
 
