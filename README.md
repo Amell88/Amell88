@@ -97,3 +97,7 @@ As I navigate the intricate landscape of this evolving industry, there remains a
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 
 </p> 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=amell88&icon=0&color=0)](https://visitcount.itsvg.in)
